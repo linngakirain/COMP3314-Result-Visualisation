@@ -193,7 +193,7 @@ def load_all_change_points():
     return all_cps
 
 def get_original_paper_table5():
-    """Get Table 5 results from original paper."""
+    """Get Table 3 results from original paper."""
     return {
         'gseg_wei': {
             2006: '11-29',
@@ -442,7 +442,7 @@ def create_time_series_plot(stocks_data, all_change_points, output_dir):
     
     ax.set_xlabel('Date', fontsize=12, fontweight='bold')
     ax.set_ylabel('Stock Price', fontsize=12, fontweight='bold')
-    ax.set_title('US Stocks: Time Series with Detected Change Points (2006-2009)', 
+    ax.set_title('Figure 4: US Stocks time series', 
                 fontsize=13, fontweight='bold')
     ax.grid(True, alpha=0.3)
     ax.legend(loc='upper right', fontsize=9, ncol=2)
@@ -450,7 +450,7 @@ def create_time_series_plot(stocks_data, all_change_points, output_dir):
     
     plt.tight_layout()
     
-    output_file = os.path.join(output_dir, 'us_stocks_timeseries.png')
+    output_file = os.path.join(output_dir, 'figure4_us_stocks_timeseries.png')
     plt.savefig(output_file, dpi=150, bbox_inches='tight', format='png')
     print(f"Time series plot saved to: {output_file}")
     plt.close()
@@ -458,9 +458,9 @@ def create_time_series_plot(stocks_data, all_change_points, output_dir):
     return output_file
 
 def create_table_visualization(reproduced_cps, output_dir):
-    """Create Table 5 visualization with two separate tables: Original Paper and Reproduced Result."""
+    """Create Table 3 visualization with two separate tables: Original Paper and Reproduced Result."""
     fig, axes = plt.subplots(2, 1, figsize=(12, 10))
-    fig.suptitle('Table 5: Estimated change-points (in MM-DD format) of US Stock Data',
+    fig.suptitle('Table 3: Comparison of detected change-points in US Stock Market data',
                  fontsize=14, fontweight='bold', y=0.98)
     
     years = [2006, 2007, 2008, 2009]
@@ -599,9 +599,9 @@ def create_table_visualization(reproduced_cps, output_dir):
     
     plt.tight_layout(rect=[0, 0, 1, 0.96])
     
-    output_file = os.path.join(output_dir, 'us_stocks_table5.png')
+    output_file = os.path.join(output_dir, 'table3_us_stocks.png')
     plt.savefig(output_file, dpi=300, bbox_inches='tight', format='png')
-    print(f"Table 5 visualization saved to: {output_file}", flush=True)
+    print(f"Table 3 visualization saved to: {output_file}", flush=True)
     print(f"  Reproduced table has {len(table_data_reproduced)} rows", flush=True)
     for i, row in enumerate(table_data_reproduced[:3]):
         print(f"    Row {i}: {row[0]} - {row[1:]}", flush=True)

@@ -235,7 +235,7 @@ def create_ari_visualization(data, output_dir):
         return
     
     fig, ax = plt.subplots(1, 1, figsize=(10, 6))
-    fig.suptitle('ARI (Adjusted Rand Index) Performance (p=500)', 
+    fig.suptitle('Figure 2: Reproduced ARI distributions with dense mean boxplot', 
                  fontsize=14, fontweight='bold')
     
     plot_data = []
@@ -271,7 +271,7 @@ def create_ari_visualization(data, output_dir):
     ax.tick_params(axis='y', labelsize=9)
     
     plt.tight_layout()
-    output_file = os.path.join(output_dir, 'ari_boxplot.png')
+    output_file = os.path.join(output_dir, 'figure2_ari_boxplot.png')
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
     print(f"ARI visualization saved to: {output_file}")
     plt.close()
@@ -314,7 +314,7 @@ def create_auc_visualization(data, output_dir):
         return
     
     fig, ax = plt.subplots(1, 1, figsize=(10, 6))
-    fig.suptitle('AUC (Area Under Curve) Performance (p=500)', 
+    fig.suptitle('Figure 3: AUC performance metrics boxplot', 
                  fontsize=14, fontweight='bold')
     
     plot_data = []
@@ -353,7 +353,7 @@ def create_auc_visualization(data, output_dir):
     ax.tick_params(axis='y', labelsize=9)
     
     plt.tight_layout()
-    output_file = os.path.join(output_dir, 'auc_boxplot.png')
+    output_file = os.path.join(output_dir, 'figure3_auc_boxplot.png')
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
     print(f"AUC visualization saved to: {output_file}")
     plt.close()

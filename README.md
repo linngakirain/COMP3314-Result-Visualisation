@@ -4,16 +4,70 @@ This repository contains visualization and analysis scripts for reproducing resu
 
 ## Visualization Scripts
 
-### Real Data Visualizations
+### Tables
 
-#### 1. NYC Taxi (`nyc_taxi_visualization/`)
-Visualizes change points detected in NYC taxi drop-off data using VGG16 features.
+#### Table 1: Average Computation Time (`simulated_data/simulated_data_visualization/`)
+Average computation time (in seconds) across 1000 replications from the 'Dense Mean Change' setup with T = 1000.
+
+**Script:** `generate_table1.py`
+
+**Outputs:**
+- `table1_computation_time.png` - Comparison of original paper and reproduced computation times
+
+**Usage:**
+```bash
+cd simulated_data/simulated_data_visualization
+python3 generate_table1.py
+```
+
+**Data Source:**
+- Log files: `simulated_data/simulated_data_output/logs/`
+- RData files: `simulated_data/result_3/output/dense_mean/`
+- Methods: `Logis`, `Rf`, `Fnn`, `gseg`, `changeforest`, `Hddc`, `NODE`
+
+#### Table 2: Performance Comparison of VGG16 Classifier on CIFAR-10 (`simulated_data/simulated_data_visualization/`)
+Size and Power performance, and average ARI values for CIFAR VGG16.
+
+**Script:** `generate_table2.py`
+
+**Outputs:**
+- `table2_cifar_vgg16.png` - Size, Power, and ARI performance table
+
+**Usage:**
+```bash
+cd simulated_data/simulated_data_visualization
+python3 generate_table2.py
+```
+
+**Data Source:**
+- `simulated_data/cifar/vgg16/`
+- Cases: Cat → Dog (3-5), Deer → Dog (4-5), Deer → Horse (4-7)
+
+#### Table 3: Comparison of Detected Change-Points in US Stock Market Data (`us_stocks_visualization/`)
+Comparison table of original and reproduced change points in US stocks data.
+
+**Script:** `visualize_us_stocks.py`
+
+**Outputs:**
+- `table3_us_stocks.png` - Comparison table of original and reproduced change points
+
+**Usage:**
+```bash
+cd us_stocks_visualization
+python3 visualize_us_stocks.py
+```
+
+**Data Source:**
+- `real_data/us_stocks/output/` - Change point detection results
+- Methods: `changeforest`, `fnn`, `gseg_wei`, `gseg_max`, `gseg_orig`, `gseg_gen`
+
+#### Table 4: Comparison of Detected Change-Points in NYC Taxi Data (`nyc_taxi_visualization/`)
+Comparison table of original and reproduced change points in NYC taxi data.
 
 **Script:** `visualize_vgg16_nyc_taxi.py`
 
 **Outputs:**
-- `vgg16_nyc_taxi_timeseries.png` - Time series plot with detected change points
-- `vgg16_nyc_taxi_table.png` - Comparison table of original and reproduced change points
+- `table4_nyc_taxi.png` - Comparison table of original and reproduced change points
 
 **Usage:**
 ```bash
@@ -25,59 +79,15 @@ python3 visualize_vgg16_nyc_taxi.py
 - `real_data/nyc_taxi/vgg16_sbs_nyc_taxi.pkl` - Change point detection results
 - `real_data/nyc_taxi/heatmaps_color_numeric.pkl` - Original taxi data
 
-#### 2. US Stocks (`us_stocks_visualization/`)
-Visualizes change points detected in US stocks data.
+### Figures
 
-**Script:** `visualize_us_stocks.py`
-
-**Outputs:**
-- `us_stocks_timeseries.png` - Time series plot with detected change points
-- `us_stocks_table5.png` - Comparison table of original and reproduced change points
-
-**Usage:**
-```bash
-cd us_stocks_visualization
-python3 visualize_us_stocks.py
-```
-
-**Data Source:**
-- `real_data/us_stocks/output/` - Change point detection results
-- `real_data/us_stocks/us_stocks/stable_stocks.csv` - Stock data with dates
-
-**Methods:**
-- changeforest
-- fnn
-- gseg_wei, gseg_max, gseg_orig, gseg_gen
-
-### Simulated Data Visualizations
-
-#### 1. Computation Time (`simulated_data/simulated_data_visualization/`)
-Average computation time (in seconds) across 1000 replications from the 'Dense Mean Change' setup with T = 1000.
-
-**Script:** `generate_table3.py`
-
-**Outputs:**
-- `table3_computation_time.png` - Comparison of original paper and reproduced computation times
-
-**Usage:**
-```bash
-cd simulated_data/simulated_data_visualization
-python3 generate_table3.py
-```
-
-**Data Source:**
-- Log files: `simulated_data/simulated_data_output/logs/`
-- RData files: `simulated_data/result_3/output/dense_mean/`
-- Methods: `Logis`, `Rf`, `Fnn`, `gseg`, `changeforest`, `Hddc`, `NODE`
-
-#### 2. ARI and AUC Visualizations (`simulated_data/simulated_data_visualization/`)
-Creates boxplot visualizations for ARI (Adjusted Rand Index) and AUC (Area Under Curve) performance.
+#### Figure 2: Reproduced ARI Distributions with Dense Mean Boxplot (`simulated_data/simulated_data_visualization/`)
+Boxplot visualization for ARI (Adjusted Rand Index) performance.
 
 **Script:** `visualize_ari_auc.py`
 
 **Outputs:**
-- `ari_boxplot.png` - ARI performance boxplot (p=500)
-- `auc_boxplot.png` - AUC performance boxplot (p=500)
+- `figure2_ari_boxplot.png` - ARI performance boxplot (p=500)
 
 **Usage:**
 ```bash
@@ -91,48 +101,61 @@ python3 visualize_ari_auc.py
 - Only includes data with p=500
 - True change point: 500
 
-**Method Order and Colors:**
-1. changeforest (red)
-2. Logis (blue)
-3. FNN (orange)
-4. RF (purple)
+#### Figure 3: AUC Performance Metrics Boxplot (`simulated_data/simulated_data_visualization/`)
+Boxplot visualization for AUC (Area Under Curve) performance.
 
-#### 3. Simulated Data Output Visualizations (`simulated_data/simulated_data_visualization/`)
-Creates boxplot visualizations for ARI and AUC from simulated_data_output folder.
-
-**Script:** `visualize_simulated_data_output.py`
+**Script:** `visualize_ari_auc.py`
 
 **Outputs:**
-- `simulated_output_ari_boxplot.png` - ARI performance by null type
-- `simulated_output_auc_boxplot.png` - AUC performance by null type
+- `figure3_auc_boxplot.png` - AUC performance boxplot (p=500)
 
 **Usage:**
 ```bash
 cd simulated_data/simulated_data_visualization
-python3 visualize_simulated_data_output.py
+python3 visualize_ari_auc.py
 ```
 
 **Data Source:**
-- `simulated_data/simulated_data_output/output/`
-- Organized by null types: `standard_null`, `banded_null`, `exp_null`
-- Methods: `reg_logis`, `rf`, `fnn`
+- `simulated_data/computational_time/output/dense_mean/`
+- Methods: `changeforest`, `Logis`, `FNN`, `gseg`, `RF`
+- Only includes data with p=500
+- True change point: 500
 
-## Null Types
+#### Figure 4: US Stocks Time Series (`us_stocks_visualization/`)
+Time series plot with detected change points in US stocks data.
 
-The simulated data experiments use three null types:
+**Script:** `visualize_us_stocks.py`
 
-1. **Standard Null**: {**Z**_t_}_t_=1^T^ iid ~ *N*~p~(**0**_p_, *I*~p~)
-   - Independent and identically distributed p-variate normal with zero mean and identity covariance
+**Outputs:**
+- `figure4_us_stocks_timeseries.png` - Time series plot with detected change points
 
-2. **Banded Null**: {**Z**_t_}_t_=1^T^ iid ~ *N*~p~(**0**_p_, Σ) with Σ = (*σ*~ij~)_i,j_=1^p^, *σ*~ij~ = 0.8^|i-j|^
-   - p-variate normal with banded covariance structure
+**Usage:**
+```bash
+cd us_stocks_visualization
+python3 visualize_us_stocks.py
+```
 
-3. **Exponential Null**: {*Z*~tj~}_t_=1^T^ iid ~ Exp(1) for *j* = 1, ..., *p*
-   - Independent exponential distributions for each component
+**Data Source:**
+- `real_data/us_stocks/us_stocks/stable_stocks.csv` - Stock data with dates
+- `real_data/us_stocks/output/` - Change point detection results
 
-- `simulated_data/simulated_data_output/output/`
-- Organized by null types: `standard_null`, `banded_null`, `exp_null`
-- Methods: `reg_logis`, `rf`, `fnn`
+#### Figure 5: NYC Taxi Trip Counts with Change-Points (`nyc_taxi_visualization/`)
+Time series plot with detected change points in NYC taxi drop-off data.
+
+**Script:** `visualize_vgg16_nyc_taxi.py`
+
+**Outputs:**
+- `figure5_nyc_taxi_timeseries.png` - Time series plot with detected change points
+
+**Usage:**
+```bash
+cd nyc_taxi_visualization
+python3 visualize_vgg16_nyc_taxi.py
+```
+
+**Data Source:**
+- `real_data/nyc_taxi/heatmaps_color_numeric.pkl` - Original taxi data
+- `real_data/nyc_taxi/vgg16_sbs_nyc_taxi.pkl` - Change point detection results
 
 ## Requirements
 
@@ -163,13 +186,18 @@ The simulated data experiments use three null types:
 To generate all visualizations:
 
 ```bash
-# Real data
-cd nyc_taxi_visualization && python3 visualize_vgg16_nyc_taxi.py
-cd ../us_stocks_visualization && python3 visualize_us_stocks.py
+# Tables
+cd simulated_data/simulated_data_visualization
+python3 generate_table1.py
+python3 generate_table2.py
 
-# Simulated data
-cd ../simulated_data/simulated_data_visualization
-python3 generate_table3.py
+# Figures
 python3 visualize_ari_auc.py
-python3 visualize_simulated_data_output.py
+
+# Real data
+cd ../../us_stocks_visualization
+python3 visualize_us_stocks.py
+
+cd ../nyc_taxi_visualization
+python3 visualize_vgg16_nyc_taxi.py
 ```

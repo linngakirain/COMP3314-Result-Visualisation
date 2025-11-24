@@ -116,7 +116,7 @@ def extract_change_points_from_pkl(data):
             by_year)
 
 def get_original_paper_change_points():
-    """Get change points from Table 6 (original paper)."""
+    """Get change points from Table 4 (original paper)."""
     return {
         2018: [],
         2019: ['01-31', '08-31'],
@@ -210,7 +210,7 @@ def create_time_series_plot(taxi_data, change_points, output_dir):
     
     ax.set_xlabel('Date', fontsize=12, fontweight='bold')
     ax.set_ylabel('Daily Total Drop-offs', fontsize=12, fontweight='bold')
-    ax.set_title('NYC Taxi: Daily Drop-offs with Detected Change Points (2018-2022)', 
+    ax.set_title('Figure 5: NYC taxi trip counts with change-points', 
                 fontsize=13, fontweight='bold')
     ax.grid(True, alpha=0.3)
     ax.legend(loc='upper right', fontsize=10)
@@ -218,7 +218,7 @@ def create_time_series_plot(taxi_data, change_points, output_dir):
     
     plt.tight_layout()
     
-    output_file = os.path.join(output_dir, 'vgg16_nyc_taxi_timeseries.png')
+    output_file = os.path.join(output_dir, 'figure5_nyc_taxi_timeseries.png')
     plt.savefig(output_file, dpi=150, bbox_inches='tight', format='png')
     print(f"Time series plot saved to: {output_file}")
     plt.close()
@@ -275,10 +275,10 @@ def create_table_visualization(original_cps, reproduced_cps, output_dir):
     table[(1, 0)].set_text_props(weight='bold', color='black')
     table[(2, 0)].set_text_props(weight='bold', color='black')
     
-    plt.title('Table 6: Estimated change-points (in MM-DD format) of New York taxi data', 
+    plt.title('Table 4: Comparison of detected change-points in NYC taxi data', 
              fontsize=13, fontweight='bold', pad=15)
     
-    output_file = os.path.join(output_dir, 'vgg16_nyc_taxi_table.png')
+    output_file = os.path.join(output_dir, 'table4_nyc_taxi.png')
     plt.savefig(output_file, dpi=300, bbox_inches='tight', format='png')
     print(f"Table visualization saved to: {output_file}")
     plt.close()
@@ -326,7 +326,7 @@ def main():
     
     original_cps = get_original_paper_change_points()
     
-    print("\nOriginal paper change points (Table 6):")
+    print("\nOriginal paper change points (Table 4):")
     for year in sorted(original_cps.keys()):
         if original_cps[year]:
             print(f"  {year}: {', '.join(original_cps[year])}")
@@ -339,8 +339,8 @@ def main():
     
     print("\nVisualization complete!")
     print(f"\nAll files saved to: {output_dir}")
-    print("  - vgg16_nyc_taxi_timeseries.png (time series with change points)")
-    print("  - vgg16_nyc_taxi_table.png (comparison table)")
+    print("  - figure5_nyc_taxi_timeseries.png (time series with change points)")
+    print("  - table4_nyc_taxi.png (comparison table)")
 
 if __name__ == "__main__":
     main()
