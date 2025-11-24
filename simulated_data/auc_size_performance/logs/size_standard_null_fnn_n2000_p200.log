@@ -1,3 +1,0 @@
-[22:22:56] Starting: standard_null | FNN | n=2000, p=200
-run_size_for_result1.sh: line 68: 62957 Segmentation fault: 11     python code/py/simulation_scripts/simulation_changeAUC.py -d 0 -n 2000 -p 200 -r 1000 -g standard_null -c FNN -e 0.15 -a 0.05 -t False -l local -s 1
-[22:23:53] ✗ Failed: standard_null | FNN | n=2000, p=200 (exit code: 139)

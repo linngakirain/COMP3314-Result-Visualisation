@@ -1,0 +1,2002 @@
+[05:13:42] Starting: changeforest | p=500
+Detection is finished in 84.50239300727844 seconds
+---- Change Point for 1 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 39.55110692977905 seconds
+---- Change Point for 2 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 56.98576903343201 seconds
+---- Change Point for 3 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 68.57534790039062 seconds
+---- Change Point for 4 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 46.796156883239746 seconds
+---- Change Point for 5 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 42.371013164520264 seconds
+---- Change Point for 6 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 47.53485703468323 seconds
+---- Change Point for 7 iteration with dense_mean signal, 2.0 is 439, and pvalue 0.005. ----
+Detection is finished in 56.56182813644409 seconds
+---- Change Point for 8 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 67.71915292739868 seconds
+---- Change Point for 9 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 41.151663064956665 seconds
+---- Change Point for 10 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 97.15206980705261 seconds
+---- Change Point for 11 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 98.4806318283081 seconds
+---- Change Point for 12 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 119.77733874320984 seconds
+---- Change Point for 13 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 97.15182995796204 seconds
+---- Change Point for 14 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 103.27792191505432 seconds
+---- Change Point for 15 iteration with dense_mean signal, 2.0 is 510, and pvalue 0.005. ----
+Detection is finished in 41.295100927352905 seconds
+---- Change Point for 16 iteration with dense_mean signal, 2.0 is 520, and pvalue 0.005. ----
+Detection is finished in 34.90373182296753 seconds
+---- Change Point for 17 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 52.72473978996277 seconds
+---- Change Point for 18 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 32.416025161743164 seconds
+---- Change Point for 19 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 61.13235306739807 seconds
+---- Change Point for 20 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 48.9032940864563 seconds
+---- Change Point for 21 iteration with dense_mean signal, 2.0 is 480, and pvalue 0.005. ----
+Detection is finished in 113.96289896965027 seconds
+---- Change Point for 22 iteration with dense_mean signal, 2.0 is 520, and pvalue 0.005. ----
+Detection is finished in 77.87692999839783 seconds
+---- Change Point for 23 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 13.835815906524658 seconds
+---- Change Point for 24 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 29.521199941635132 seconds
+---- Change Point for 25 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 22.186609983444214 seconds
+---- Change Point for 26 iteration with dense_mean signal, 2.0 is 486, and pvalue 0.005. ----
+Detection is finished in 29.256119966506958 seconds
+---- Change Point for 27 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 36.25568890571594 seconds
+---- Change Point for 28 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 37.43640112876892 seconds
+---- Change Point for 29 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 26.62913990020752 seconds
+---- Change Point for 30 iteration with dense_mean signal, 2.0 is 533, and pvalue 0.005. ----
+Detection is finished in 39.32567882537842 seconds
+---- Change Point for 31 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 29.501653909683228 seconds
+---- Change Point for 32 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 34.89910101890564 seconds
+---- Change Point for 33 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 32.937883138656616 seconds
+---- Change Point for 34 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 30.33539128303528 seconds
+---- Change Point for 35 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 43.89557600021362 seconds
+---- Change Point for 36 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 32.199857234954834 seconds
+---- Change Point for 37 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 31.80198383331299 seconds
+---- Change Point for 38 iteration with dense_mean signal, 2.0 is 482, and pvalue 0.005. ----
+Detection is finished in 18.921786308288574 seconds
+---- Change Point for 39 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 41.20638704299927 seconds
+---- Change Point for 40 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 19.544024229049683 seconds
+---- Change Point for 41 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.730220079421997 seconds
+---- Change Point for 42 iteration with dense_mean signal, 2.0 is 475, and pvalue 0.005. ----
+Detection is finished in 19.521522998809814 seconds
+---- Change Point for 43 iteration with dense_mean signal, 2.0 is 511, and pvalue 0.005. ----
+Detection is finished in 17.610126733779907 seconds
+---- Change Point for 44 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 23.847050189971924 seconds
+---- Change Point for 45 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 20.432536840438843 seconds
+---- Change Point for 46 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 34.16335082054138 seconds
+---- Change Point for 47 iteration with dense_mean signal, 2.0 is 511, and pvalue 0.005. ----
+Detection is finished in 29.62497901916504 seconds
+---- Change Point for 48 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 30.33156108856201 seconds
+---- Change Point for 49 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 35.22113299369812 seconds
+---- Change Point for 50 iteration with dense_mean signal, 2.0 is 517, and pvalue 0.005. ----
+Detection is finished in 24.600287914276123 seconds
+---- Change Point for 51 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 22.917290925979614 seconds
+---- Change Point for 52 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 27.386887073516846 seconds
+---- Change Point for 53 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 36.80413007736206 seconds
+---- Change Point for 54 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 23.27177619934082 seconds
+---- Change Point for 55 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 33.34449815750122 seconds
+---- Change Point for 56 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 25.438325881958008 seconds
+---- Change Point for 57 iteration with dense_mean signal, 2.0 is 510, and pvalue 0.005. ----
+Detection is finished in 25.00890588760376 seconds
+---- Change Point for 58 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 29.350048065185547 seconds
+---- Change Point for 59 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 32.95155715942383 seconds
+---- Change Point for 60 iteration with dense_mean signal, 2.0 is 477, and pvalue 0.005. ----
+Detection is finished in 34.67572522163391 seconds
+---- Change Point for 61 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 30.340781211853027 seconds
+---- Change Point for 62 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 25.74186110496521 seconds
+---- Change Point for 63 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 28.112287998199463 seconds
+---- Change Point for 64 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 46.07887291908264 seconds
+---- Change Point for 65 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 28.540775060653687 seconds
+---- Change Point for 66 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 35.6437611579895 seconds
+---- Change Point for 67 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 39.52849888801575 seconds
+---- Change Point for 68 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 45.61466693878174 seconds
+---- Change Point for 69 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 75.38644599914551 seconds
+---- Change Point for 70 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 34.94229507446289 seconds
+---- Change Point for 71 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 42.138163805007935 seconds
+---- Change Point for 72 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 42.07505798339844 seconds
+---- Change Point for 73 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 28.675112009048462 seconds
+---- Change Point for 74 iteration with dense_mean signal, 2.0 is 514, and pvalue 0.005. ----
+Detection is finished in 32.02587914466858 seconds
+---- Change Point for 75 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 50.78658699989319 seconds
+---- Change Point for 76 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 28.757941007614136 seconds
+---- Change Point for 77 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.62693500518799 seconds
+---- Change Point for 78 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 22.58575201034546 seconds
+---- Change Point for 79 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 41.107694149017334 seconds
+---- Change Point for 80 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 47.19421124458313 seconds
+---- Change Point for 81 iteration with dense_mean signal, 2.0 is 485, and pvalue 0.005. ----
+Detection is finished in 39.270681858062744 seconds
+---- Change Point for 82 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 34.892900705337524 seconds
+---- Change Point for 83 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 30.650007963180542 seconds
+---- Change Point for 84 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 25.403918027877808 seconds
+---- Change Point for 85 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 31.240981101989746 seconds
+---- Change Point for 86 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 36.27685213088989 seconds
+---- Change Point for 87 iteration with dense_mean signal, 2.0 is 507, and pvalue 0.005. ----
+Detection is finished in 20.702311038970947 seconds
+---- Change Point for 88 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 32.719046115875244 seconds
+---- Change Point for 89 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 26.046772003173828 seconds
+---- Change Point for 90 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 26.8082332611084 seconds
+---- Change Point for 91 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 30.28677988052368 seconds
+---- Change Point for 92 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 27.514771938323975 seconds
+---- Change Point for 93 iteration with dense_mean signal, 2.0 is 481, and pvalue 0.005. ----
+Detection is finished in 26.11184310913086 seconds
+---- Change Point for 94 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 40.065999031066895 seconds
+---- Change Point for 95 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 24.166244983673096 seconds
+---- Change Point for 96 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 26.69280171394348 seconds
+---- Change Point for 97 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 21.96523094177246 seconds
+---- Change Point for 98 iteration with dense_mean signal, 2.0 is 519, and pvalue 0.005. ----
+Detection is finished in 27.092784881591797 seconds
+---- Change Point for 99 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 36.26877689361572 seconds
+---- Change Point for 100 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 31.953598022460938 seconds
+---- Change Point for 101 iteration with dense_mean signal, 2.0 is 512, and pvalue 0.005. ----
+Detection is finished in 29.023164987564087 seconds
+---- Change Point for 102 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 34.97768592834473 seconds
+---- Change Point for 103 iteration with dense_mean signal, 2.0 is 441, and pvalue 0.005. ----
+Detection is finished in 32.847038984298706 seconds
+---- Change Point for 104 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 20.311657905578613 seconds
+---- Change Point for 105 iteration with dense_mean signal, 2.0 is 513, and pvalue 0.005. ----
+Detection is finished in 46.74938607215881 seconds
+---- Change Point for 106 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 37.85140609741211 seconds
+---- Change Point for 107 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 54.734522104263306 seconds
+---- Change Point for 108 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 55.72679615020752 seconds
+---- Change Point for 109 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 46.997612953186035 seconds
+---- Change Point for 110 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 85.51803088188171 seconds
+---- Change Point for 111 iteration with dense_mean signal, 2.0 is 483, and pvalue 0.005. ----
+Detection is finished in 44.53760623931885 seconds
+---- Change Point for 112 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 42.79294013977051 seconds
+---- Change Point for 113 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 42.73412895202637 seconds
+---- Change Point for 114 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 34.23639488220215 seconds
+---- Change Point for 115 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 42.10909104347229 seconds
+---- Change Point for 116 iteration with dense_mean signal, 2.0 is 511, and pvalue 0.005. ----
+Detection is finished in 33.639159202575684 seconds
+---- Change Point for 117 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 32.25665903091431 seconds
+---- Change Point for 118 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 29.51395606994629 seconds
+---- Change Point for 119 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 35.479209899902344 seconds
+---- Change Point for 120 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 39.665263175964355 seconds
+---- Change Point for 121 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 29.203840970993042 seconds
+---- Change Point for 122 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.77321219444275 seconds
+---- Change Point for 123 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.36908793449402 seconds
+---- Change Point for 124 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 31.83026885986328 seconds
+---- Change Point for 125 iteration with dense_mean signal, 2.0 is 482, and pvalue 0.005. ----
+Detection is finished in 37.918509006500244 seconds
+---- Change Point for 126 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 35.30206108093262 seconds
+---- Change Point for 127 iteration with dense_mean signal, 2.0 is 528, and pvalue 0.005. ----
+Detection is finished in 39.6570839881897 seconds
+---- Change Point for 128 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 40.013063192367554 seconds
+---- Change Point for 129 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 43.85905361175537 seconds
+---- Change Point for 130 iteration with dense_mean signal, 2.0 is 456, and pvalue 0.005. ----
+Detection is finished in 23.697293996810913 seconds
+---- Change Point for 131 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 23.00212812423706 seconds
+---- Change Point for 132 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 24.655128955841064 seconds
+---- Change Point for 133 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 22.71327304840088 seconds
+---- Change Point for 134 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 31.37420916557312 seconds
+---- Change Point for 135 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 32.109076261520386 seconds
+---- Change Point for 136 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 25.642070055007935 seconds
+---- Change Point for 137 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 35.882055044174194 seconds
+---- Change Point for 138 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 35.85410666465759 seconds
+---- Change Point for 139 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.29404067993164 seconds
+---- Change Point for 140 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 32.98821210861206 seconds
+---- Change Point for 141 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 29.989728927612305 seconds
+---- Change Point for 142 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 26.42399501800537 seconds
+---- Change Point for 143 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 28.451882123947144 seconds
+---- Change Point for 144 iteration with dense_mean signal, 2.0 is 509, and pvalue 0.005. ----
+Detection is finished in 30.563868284225464 seconds
+---- Change Point for 145 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.707098722457886 seconds
+---- Change Point for 146 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 26.77605700492859 seconds
+---- Change Point for 147 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 23.039495944976807 seconds
+---- Change Point for 148 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 33.542953968048096 seconds
+---- Change Point for 149 iteration with dense_mean signal, 2.0 is 465, and pvalue 0.005. ----
+Detection is finished in 27.096126079559326 seconds
+---- Change Point for 150 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 36.50658917427063 seconds
+---- Change Point for 151 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 25.1510488986969 seconds
+---- Change Point for 152 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 24.514182090759277 seconds
+---- Change Point for 153 iteration with dense_mean signal, 2.0 is 510, and pvalue 0.005. ----
+Detection is finished in 30.916101932525635 seconds
+---- Change Point for 154 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 21.767518997192383 seconds
+---- Change Point for 155 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 36.6103789806366 seconds
+---- Change Point for 156 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 40.267154932022095 seconds
+---- Change Point for 157 iteration with dense_mean signal, 2.0 is 507, and pvalue 0.005. ----
+Detection is finished in 29.91148591041565 seconds
+---- Change Point for 158 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 37.191654920578 seconds
+---- Change Point for 159 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 31.703321933746338 seconds
+---- Change Point for 160 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 31.99187207221985 seconds
+---- Change Point for 161 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 31.46683692932129 seconds
+---- Change Point for 162 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 25.617915153503418 seconds
+---- Change Point for 163 iteration with dense_mean signal, 2.0 is 481, and pvalue 0.005. ----
+Detection is finished in 26.636943101882935 seconds
+---- Change Point for 164 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 22.582758903503418 seconds
+---- Change Point for 165 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 29.62217426300049 seconds
+---- Change Point for 166 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 23.4100821018219 seconds
+---- Change Point for 167 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 23.370676279067993 seconds
+---- Change Point for 168 iteration with dense_mean signal, 2.0 is 524, and pvalue 0.005. ----
+Detection is finished in 24.303510189056396 seconds
+---- Change Point for 169 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 25.717111110687256 seconds
+---- Change Point for 170 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 15.966383934020996 seconds
+---- Change Point for 171 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 25.25483989715576 seconds
+---- Change Point for 172 iteration with dense_mean signal, 2.0 is 523, and pvalue 0.005. ----
+Detection is finished in 13.244548082351685 seconds
+---- Change Point for 173 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 14.95828104019165 seconds
+---- Change Point for 174 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 14.365785837173462 seconds
+---- Change Point for 175 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 13.31046199798584 seconds
+---- Change Point for 176 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 21.160178899765015 seconds
+---- Change Point for 177 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 21.646333932876587 seconds
+---- Change Point for 178 iteration with dense_mean signal, 2.0 is 518, and pvalue 0.005. ----
+Detection is finished in 18.09009623527527 seconds
+---- Change Point for 179 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 22.348073959350586 seconds
+---- Change Point for 180 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 16.532059907913208 seconds
+---- Change Point for 181 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 15.433682918548584 seconds
+---- Change Point for 182 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 9.25131607055664 seconds
+---- Change Point for 183 iteration with dense_mean signal, 2.0 is 436, and pvalue 0.005. ----
+Detection is finished in 23.235725164413452 seconds
+---- Change Point for 184 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 18.46357226371765 seconds
+---- Change Point for 185 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 36.432279109954834 seconds
+---- Change Point for 186 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 26.21032214164734 seconds
+---- Change Point for 187 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 28.354771852493286 seconds
+---- Change Point for 188 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 23.732751846313477 seconds
+---- Change Point for 189 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 17.46328616142273 seconds
+---- Change Point for 190 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 26.674083948135376 seconds
+---- Change Point for 191 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 25.81623911857605 seconds
+---- Change Point for 192 iteration with dense_mean signal, 2.0 is 507, and pvalue 0.005. ----
+Detection is finished in 26.50502896308899 seconds
+---- Change Point for 193 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 28.763749837875366 seconds
+---- Change Point for 194 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 23.599684953689575 seconds
+---- Change Point for 195 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 26.778940200805664 seconds
+---- Change Point for 196 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 16.613386154174805 seconds
+---- Change Point for 197 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 21.976681232452393 seconds
+---- Change Point for 198 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.98417615890503 seconds
+---- Change Point for 199 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 19.208801984786987 seconds
+---- Change Point for 200 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 27.792728662490845 seconds
+---- Change Point for 201 iteration with dense_mean signal, 2.0 is 507, and pvalue 0.005. ----
+Detection is finished in 23.285895109176636 seconds
+---- Change Point for 202 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 22.002254724502563 seconds
+---- Change Point for 203 iteration with dense_mean signal, 2.0 is 509, and pvalue 0.005. ----
+Detection is finished in 24.066093921661377 seconds
+---- Change Point for 204 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.91124677658081 seconds
+---- Change Point for 205 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.66080403327942 seconds
+---- Change Point for 206 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.319191932678223 seconds
+---- Change Point for 207 iteration with dense_mean signal, 2.0 is 512, and pvalue 0.005. ----
+Detection is finished in 21.453786849975586 seconds
+---- Change Point for 208 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 23.98994493484497 seconds
+---- Change Point for 209 iteration with dense_mean signal, 2.0 is 486, and pvalue 0.005. ----
+Detection is finished in 27.242669105529785 seconds
+---- Change Point for 210 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 26.52695918083191 seconds
+---- Change Point for 211 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 20.753136157989502 seconds
+---- Change Point for 212 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 23.850048065185547 seconds
+---- Change Point for 213 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.42110800743103 seconds
+---- Change Point for 214 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 28.300496101379395 seconds
+---- Change Point for 215 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 27.853161811828613 seconds
+---- Change Point for 216 iteration with dense_mean signal, 2.0 is 513, and pvalue 0.005. ----
+Detection is finished in 24.055155992507935 seconds
+---- Change Point for 217 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 27.482424020767212 seconds
+---- Change Point for 218 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 24.01729393005371 seconds
+---- Change Point for 219 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 33.6699960231781 seconds
+---- Change Point for 220 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 25.49186682701111 seconds
+---- Change Point for 221 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 24.13377094268799 seconds
+---- Change Point for 222 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 27.387000799179077 seconds
+---- Change Point for 223 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 18.41189980506897 seconds
+---- Change Point for 224 iteration with dense_mean signal, 2.0 is 516, and pvalue 0.005. ----
+Detection is finished in 22.475379943847656 seconds
+---- Change Point for 225 iteration with dense_mean signal, 2.0 is 461, and pvalue 0.005. ----
+Detection is finished in 20.16054391860962 seconds
+---- Change Point for 226 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 19.570565938949585 seconds
+---- Change Point for 227 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 24.522247791290283 seconds
+---- Change Point for 228 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 22.05913209915161 seconds
+---- Change Point for 229 iteration with dense_mean signal, 2.0 is 464, and pvalue 0.005. ----
+Detection is finished in 21.43193006515503 seconds
+---- Change Point for 230 iteration with dense_mean signal, 2.0 is 479, and pvalue 0.005. ----
+Detection is finished in 16.709264755249023 seconds
+---- Change Point for 231 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 29.672483205795288 seconds
+---- Change Point for 232 iteration with dense_mean signal, 2.0 is 486, and pvalue 0.005. ----
+Detection is finished in 24.821453094482422 seconds
+---- Change Point for 233 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 26.70358419418335 seconds
+---- Change Point for 234 iteration with dense_mean signal, 2.0 is 509, and pvalue 0.005. ----
+Detection is finished in 11.510388851165771 seconds
+---- Change Point for 235 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 27.271881103515625 seconds
+---- Change Point for 236 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 23.27560806274414 seconds
+---- Change Point for 237 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 17.607743978500366 seconds
+---- Change Point for 238 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 30.893176794052124 seconds
+---- Change Point for 239 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 22.776644945144653 seconds
+---- Change Point for 240 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.66424012184143 seconds
+---- Change Point for 241 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.745299816131592 seconds
+---- Change Point for 242 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 14.816865921020508 seconds
+---- Change Point for 243 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 22.814822912216187 seconds
+---- Change Point for 244 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.325907945632935 seconds
+---- Change Point for 245 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 27.35933494567871 seconds
+---- Change Point for 246 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 22.964205980300903 seconds
+---- Change Point for 247 iteration with dense_mean signal, 2.0 is 513, and pvalue 0.005. ----
+Detection is finished in 25.98344111442566 seconds
+---- Change Point for 248 iteration with dense_mean signal, 2.0 is 432, and pvalue 0.005. ----
+Detection is finished in 25.277617931365967 seconds
+---- Change Point for 249 iteration with dense_mean signal, 2.0 is 469, and pvalue 0.005. ----
+Detection is finished in 21.597397804260254 seconds
+---- Change Point for 250 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 18.01402997970581 seconds
+---- Change Point for 251 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 22.037263870239258 seconds
+---- Change Point for 252 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 17.413806200027466 seconds
+---- Change Point for 253 iteration with dense_mean signal, 2.0 is 414, and pvalue 0.005. ----
+Detection is finished in 15.161631107330322 seconds
+---- Change Point for 254 iteration with dense_mean signal, 2.0 is 488, and pvalue 0.005. ----
+Detection is finished in 26.666303396224976 seconds
+---- Change Point for 255 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 23.576624155044556 seconds
+---- Change Point for 256 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.21919584274292 seconds
+---- Change Point for 257 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 24.95837378501892 seconds
+---- Change Point for 258 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 14.647394895553589 seconds
+---- Change Point for 259 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 25.439275979995728 seconds
+---- Change Point for 260 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 22.024379014968872 seconds
+---- Change Point for 261 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 33.579829931259155 seconds
+---- Change Point for 262 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 13.03360104560852 seconds
+---- Change Point for 263 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.899685859680176 seconds
+---- Change Point for 264 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.901404857635498 seconds
+---- Change Point for 265 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.312493085861206 seconds
+---- Change Point for 266 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 26.281841278076172 seconds
+---- Change Point for 267 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.271071910858154 seconds
+---- Change Point for 268 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 27.40408682823181 seconds
+---- Change Point for 269 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.267888069152832 seconds
+---- Change Point for 270 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 22.508795022964478 seconds
+---- Change Point for 271 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 29.77372908592224 seconds
+---- Change Point for 272 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 25.304608821868896 seconds
+---- Change Point for 273 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 16.334174871444702 seconds
+---- Change Point for 274 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 21.358591079711914 seconds
+---- Change Point for 275 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 33.4642288684845 seconds
+---- Change Point for 276 iteration with dense_mean signal, 2.0 is 440, and pvalue 0.005. ----
+Detection is finished in 22.34992003440857 seconds
+---- Change Point for 277 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 24.475636959075928 seconds
+---- Change Point for 278 iteration with dense_mean signal, 2.0 is 509, and pvalue 0.005. ----
+Detection is finished in 30.178766012191772 seconds
+---- Change Point for 279 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 30.605371952056885 seconds
+---- Change Point for 280 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 16.63143491744995 seconds
+---- Change Point for 281 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 22.9478600025177 seconds
+---- Change Point for 282 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 19.764041900634766 seconds
+---- Change Point for 283 iteration with dense_mean signal, 2.0 is 516, and pvalue 0.005. ----
+Detection is finished in 18.33260488510132 seconds
+---- Change Point for 284 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 23.441497802734375 seconds
+---- Change Point for 285 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.72401213645935 seconds
+---- Change Point for 286 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 28.307154178619385 seconds
+---- Change Point for 287 iteration with dense_mean signal, 2.0 is 468, and pvalue 0.005. ----
+Detection is finished in 18.98153281211853 seconds
+---- Change Point for 288 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.56749391555786 seconds
+---- Change Point for 289 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 24.183195114135742 seconds
+---- Change Point for 290 iteration with dense_mean signal, 2.0 is 535, and pvalue 0.005. ----
+Detection is finished in 27.08880877494812 seconds
+---- Change Point for 291 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 30.261902809143066 seconds
+---- Change Point for 292 iteration with dense_mean signal, 2.0 is 607, and pvalue 0.005. ----
+Detection is finished in 29.839083194732666 seconds
+---- Change Point for 293 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.589303016662598 seconds
+---- Change Point for 294 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 16.872674226760864 seconds
+---- Change Point for 295 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.893566846847534 seconds
+---- Change Point for 296 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 20.973356008529663 seconds
+---- Change Point for 297 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.41573405265808 seconds
+---- Change Point for 298 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.818084955215454 seconds
+---- Change Point for 299 iteration with dense_mean signal, 2.0 is 510, and pvalue 0.005. ----
+Detection is finished in 23.238354206085205 seconds
+---- Change Point for 300 iteration with dense_mean signal, 2.0 is 488, and pvalue 0.005. ----
+Detection is finished in 26.898234128952026 seconds
+---- Change Point for 301 iteration with dense_mean signal, 2.0 is 480, and pvalue 0.005. ----
+Detection is finished in 31.55414080619812 seconds
+---- Change Point for 302 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 30.032582998275757 seconds
+---- Change Point for 303 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 26.755422830581665 seconds
+---- Change Point for 304 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 23.81329107284546 seconds
+---- Change Point for 305 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 22.843674898147583 seconds
+---- Change Point for 306 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 26.08536124229431 seconds
+---- Change Point for 307 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 24.92618227005005 seconds
+---- Change Point for 308 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 23.677183151245117 seconds
+---- Change Point for 309 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 26.94160532951355 seconds
+---- Change Point for 310 iteration with dense_mean signal, 2.0 is 510, and pvalue 0.005. ----
+Detection is finished in 28.22994112968445 seconds
+---- Change Point for 311 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 25.463690280914307 seconds
+---- Change Point for 312 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 22.374693870544434 seconds
+---- Change Point for 313 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.9323251247406 seconds
+---- Change Point for 314 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 25.584712982177734 seconds
+---- Change Point for 315 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 22.411128759384155 seconds
+---- Change Point for 316 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 16.63831114768982 seconds
+---- Change Point for 317 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 23.004759073257446 seconds
+---- Change Point for 318 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.35975980758667 seconds
+---- Change Point for 319 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 21.856594800949097 seconds
+---- Change Point for 320 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 23.835718154907227 seconds
+---- Change Point for 321 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.69414782524109 seconds
+---- Change Point for 322 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 26.19735288619995 seconds
+---- Change Point for 323 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 27.25936007499695 seconds
+---- Change Point for 324 iteration with dense_mean signal, 2.0 is 539, and pvalue 0.005. ----
+Detection is finished in 29.889712810516357 seconds
+---- Change Point for 325 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 19.03137516975403 seconds
+---- Change Point for 326 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 30.47775936126709 seconds
+---- Change Point for 327 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 24.883501052856445 seconds
+---- Change Point for 328 iteration with dense_mean signal, 2.0 is 518, and pvalue 0.005. ----
+Detection is finished in 30.62920069694519 seconds
+---- Change Point for 329 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.542529821395874 seconds
+---- Change Point for 330 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 20.15720796585083 seconds
+---- Change Point for 331 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 17.59225296974182 seconds
+---- Change Point for 332 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 24.646637201309204 seconds
+---- Change Point for 333 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 17.949742078781128 seconds
+---- Change Point for 334 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 18.27602791786194 seconds
+---- Change Point for 335 iteration with dense_mean signal, 2.0 is 477, and pvalue 0.005. ----
+Detection is finished in 19.759492874145508 seconds
+---- Change Point for 336 iteration with dense_mean signal, 2.0 is 512, and pvalue 0.005. ----
+Detection is finished in 18.758629083633423 seconds
+---- Change Point for 337 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 26.3055100440979 seconds
+---- Change Point for 338 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.690827131271362 seconds
+---- Change Point for 339 iteration with dense_mean signal, 2.0 is 533, and pvalue 0.005. ----
+Detection is finished in 27.59820294380188 seconds
+---- Change Point for 340 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 20.90176773071289 seconds
+---- Change Point for 341 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 22.904578924179077 seconds
+---- Change Point for 342 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 20.45016312599182 seconds
+---- Change Point for 343 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.450172185897827 seconds
+---- Change Point for 344 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 22.906009912490845 seconds
+---- Change Point for 345 iteration with dense_mean signal, 2.0 is 517, and pvalue 0.005. ----
+Detection is finished in 12.784831285476685 seconds
+---- Change Point for 346 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 23.76648187637329 seconds
+---- Change Point for 347 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 16.613345861434937 seconds
+---- Change Point for 348 iteration with dense_mean signal, 2.0 is 518, and pvalue 0.005. ----
+Detection is finished in 24.87750005722046 seconds
+---- Change Point for 349 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.465227127075195 seconds
+---- Change Point for 350 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 26.935830116271973 seconds
+---- Change Point for 351 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 14.944257974624634 seconds
+---- Change Point for 352 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.831094980239868 seconds
+---- Change Point for 353 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 20.341468811035156 seconds
+---- Change Point for 354 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 22.03537678718567 seconds
+---- Change Point for 355 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 21.80630397796631 seconds
+---- Change Point for 356 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 22.155627012252808 seconds
+---- Change Point for 357 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 18.937533855438232 seconds
+---- Change Point for 358 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 26.555953979492188 seconds
+---- Change Point for 359 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 23.493223190307617 seconds
+---- Change Point for 360 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 27.55556893348694 seconds
+---- Change Point for 361 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 24.741053819656372 seconds
+---- Change Point for 362 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 26.409889221191406 seconds
+---- Change Point for 363 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 25.73625421524048 seconds
+---- Change Point for 364 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 18.13204574584961 seconds
+---- Change Point for 365 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 18.110993146896362 seconds
+---- Change Point for 366 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.563187837600708 seconds
+---- Change Point for 367 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 22.86193299293518 seconds
+---- Change Point for 368 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 21.012484788894653 seconds
+---- Change Point for 369 iteration with dense_mean signal, 2.0 is 516, and pvalue 0.005. ----
+Detection is finished in 22.973954677581787 seconds
+---- Change Point for 370 iteration with dense_mean signal, 2.0 is 519, and pvalue 0.005. ----
+Detection is finished in 27.55308508872986 seconds
+---- Change Point for 371 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 24.660915851593018 seconds
+---- Change Point for 372 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 27.73714590072632 seconds
+---- Change Point for 373 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 19.172988891601562 seconds
+---- Change Point for 374 iteration with dense_mean signal, 2.0 is 429, and pvalue 0.005. ----
+Detection is finished in 27.113505125045776 seconds
+---- Change Point for 375 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 22.14118981361389 seconds
+---- Change Point for 376 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 23.967325925827026 seconds
+---- Change Point for 377 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 23.78892731666565 seconds
+---- Change Point for 378 iteration with dense_mean signal, 2.0 is 472, and pvalue 0.005. ----
+Detection is finished in 30.646116971969604 seconds
+---- Change Point for 379 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 24.968017101287842 seconds
+---- Change Point for 380 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 18.073004007339478 seconds
+---- Change Point for 381 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 26.519088745117188 seconds
+---- Change Point for 382 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 18.789828777313232 seconds
+---- Change Point for 383 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 24.21178698539734 seconds
+---- Change Point for 384 iteration with dense_mean signal, 2.0 is 507, and pvalue 0.005. ----
+Detection is finished in 20.04056406021118 seconds
+---- Change Point for 385 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 27.92408013343811 seconds
+---- Change Point for 386 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.739033699035645 seconds
+---- Change Point for 387 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 25.184020042419434 seconds
+---- Change Point for 388 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.952985048294067 seconds
+---- Change Point for 389 iteration with dense_mean signal, 2.0 is 510, and pvalue 0.005. ----
+Detection is finished in 24.4617280960083 seconds
+---- Change Point for 390 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 26.675012826919556 seconds
+---- Change Point for 391 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 18.57123827934265 seconds
+---- Change Point for 392 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.52705478668213 seconds
+---- Change Point for 393 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 25.677709102630615 seconds
+---- Change Point for 394 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 24.361727952957153 seconds
+---- Change Point for 395 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 26.633347988128662 seconds
+---- Change Point for 396 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 33.80212879180908 seconds
+---- Change Point for 397 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 34.322269916534424 seconds
+---- Change Point for 398 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 37.64977788925171 seconds
+---- Change Point for 399 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 27.689786911010742 seconds
+---- Change Point for 400 iteration with dense_mean signal, 2.0 is 470, and pvalue 0.005. ----
+Detection is finished in 28.911298990249634 seconds
+---- Change Point for 401 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 29.823636770248413 seconds
+---- Change Point for 402 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 29.294105768203735 seconds
+---- Change Point for 403 iteration with dense_mean signal, 2.0 is 512, and pvalue 0.005. ----
+Detection is finished in 19.359121084213257 seconds
+---- Change Point for 404 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 28.593621015548706 seconds
+---- Change Point for 405 iteration with dense_mean signal, 2.0 is 442, and pvalue 0.005. ----
+Detection is finished in 25.978882789611816 seconds
+---- Change Point for 406 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.34278106689453 seconds
+---- Change Point for 407 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 19.47412610054016 seconds
+---- Change Point for 408 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 23.959365129470825 seconds
+---- Change Point for 409 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 32.70298504829407 seconds
+---- Change Point for 410 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 22.83249282836914 seconds
+---- Change Point for 411 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.222177028656006 seconds
+---- Change Point for 412 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.431273937225342 seconds
+---- Change Point for 413 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.40910506248474 seconds
+---- Change Point for 414 iteration with dense_mean signal, 2.0 is 477, and pvalue 0.005. ----
+Detection is finished in 25.9967520236969 seconds
+---- Change Point for 415 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.86731481552124 seconds
+---- Change Point for 416 iteration with dense_mean signal, 2.0 is 476, and pvalue 0.005. ----
+Detection is finished in 15.324058055877686 seconds
+---- Change Point for 417 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 24.36482000350952 seconds
+---- Change Point for 418 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 18.065271854400635 seconds
+---- Change Point for 419 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 30.139070987701416 seconds
+---- Change Point for 420 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 17.69054889678955 seconds
+---- Change Point for 421 iteration with dense_mean signal, 2.0 is 528, and pvalue 0.005. ----
+Detection is finished in 26.689478158950806 seconds
+---- Change Point for 422 iteration with dense_mean signal, 2.0 is 485, and pvalue 0.005. ----
+Detection is finished in 22.72688627243042 seconds
+---- Change Point for 423 iteration with dense_mean signal, 2.0 is 469, and pvalue 0.005. ----
+Detection is finished in 26.82775902748108 seconds
+---- Change Point for 424 iteration with dense_mean signal, 2.0 is 522, and pvalue 0.005. ----
+Detection is finished in 20.85565185546875 seconds
+---- Change Point for 425 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.45847988128662 seconds
+---- Change Point for 426 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 17.802566051483154 seconds
+---- Change Point for 427 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 17.084797859191895 seconds
+---- Change Point for 428 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 26.006890058517456 seconds
+---- Change Point for 429 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 25.011242866516113 seconds
+---- Change Point for 430 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.379846334457397 seconds
+---- Change Point for 431 iteration with dense_mean signal, 2.0 is 512, and pvalue 0.005. ----
+Detection is finished in 28.404886960983276 seconds
+---- Change Point for 432 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 24.33312201499939 seconds
+---- Change Point for 433 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 22.924458026885986 seconds
+---- Change Point for 434 iteration with dense_mean signal, 2.0 is 446, and pvalue 0.005. ----
+Detection is finished in 20.6250422000885 seconds
+---- Change Point for 435 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 16.60259985923767 seconds
+---- Change Point for 436 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 28.666903018951416 seconds
+---- Change Point for 437 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.072548866271973 seconds
+---- Change Point for 438 iteration with dense_mean signal, 2.0 is 482, and pvalue 0.005. ----
+Detection is finished in 22.681967735290527 seconds
+---- Change Point for 439 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 25.775381088256836 seconds
+---- Change Point for 440 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 30.93744683265686 seconds
+---- Change Point for 441 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 16.27018666267395 seconds
+---- Change Point for 442 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.589969873428345 seconds
+---- Change Point for 443 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 22.257883071899414 seconds
+---- Change Point for 444 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 17.215400218963623 seconds
+---- Change Point for 445 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 23.91680097579956 seconds
+---- Change Point for 446 iteration with dense_mean signal, 2.0 is 488, and pvalue 0.005. ----
+Detection is finished in 23.798918962478638 seconds
+---- Change Point for 447 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 24.618705987930298 seconds
+---- Change Point for 448 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 23.61443829536438 seconds
+---- Change Point for 449 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 23.669373273849487 seconds
+---- Change Point for 450 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 23.457305908203125 seconds
+---- Change Point for 451 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.209531784057617 seconds
+---- Change Point for 452 iteration with dense_mean signal, 2.0 is 470, and pvalue 0.005. ----
+Detection is finished in 37.781015157699585 seconds
+---- Change Point for 453 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.327031135559082 seconds
+---- Change Point for 454 iteration with dense_mean signal, 2.0 is 481, and pvalue 0.005. ----
+Detection is finished in 23.991533041000366 seconds
+---- Change Point for 455 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 26.14309287071228 seconds
+---- Change Point for 456 iteration with dense_mean signal, 2.0 is 528, and pvalue 0.005. ----
+Detection is finished in 22.513036727905273 seconds
+---- Change Point for 457 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.401126861572266 seconds
+---- Change Point for 458 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 24.57557201385498 seconds
+---- Change Point for 459 iteration with dense_mean signal, 2.0 is 516, and pvalue 0.005. ----
+Detection is finished in 27.656557083129883 seconds
+---- Change Point for 460 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 18.11654782295227 seconds
+---- Change Point for 461 iteration with dense_mean signal, 2.0 is 529, and pvalue 0.005. ----
+Detection is finished in 21.319929122924805 seconds
+---- Change Point for 462 iteration with dense_mean signal, 2.0 is 516, and pvalue 0.005. ----
+Detection is finished in 27.616847038269043 seconds
+---- Change Point for 463 iteration with dense_mean signal, 2.0 is 461, and pvalue 0.005. ----
+Detection is finished in 16.619524002075195 seconds
+---- Change Point for 464 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 26.269859075546265 seconds
+---- Change Point for 465 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 15.940306901931763 seconds
+---- Change Point for 466 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.90665292739868 seconds
+---- Change Point for 467 iteration with dense_mean signal, 2.0 is 481, and pvalue 0.005. ----
+Detection is finished in 26.60619020462036 seconds
+---- Change Point for 468 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 24.903006076812744 seconds
+---- Change Point for 469 iteration with dense_mean signal, 2.0 is 517, and pvalue 0.005. ----
+Detection is finished in 19.614825963974 seconds
+---- Change Point for 470 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 19.53754997253418 seconds
+---- Change Point for 471 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 14.886551141738892 seconds
+---- Change Point for 472 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 13.955507278442383 seconds
+---- Change Point for 473 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 17.995346784591675 seconds
+---- Change Point for 474 iteration with dense_mean signal, 2.0 is 485, and pvalue 0.005. ----
+Detection is finished in 19.689504146575928 seconds
+---- Change Point for 475 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.278196334838867 seconds
+---- Change Point for 476 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 31.193135023117065 seconds
+---- Change Point for 477 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 16.255481958389282 seconds
+---- Change Point for 478 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 14.698138236999512 seconds
+---- Change Point for 479 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 16.02906608581543 seconds
+---- Change Point for 480 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.43896794319153 seconds
+---- Change Point for 481 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 25.285935163497925 seconds
+---- Change Point for 482 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 21.37429714202881 seconds
+---- Change Point for 483 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 25.298130989074707 seconds
+---- Change Point for 484 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 25.446452140808105 seconds
+---- Change Point for 485 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 16.341020107269287 seconds
+---- Change Point for 486 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 28.6003360748291 seconds
+---- Change Point for 487 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.338002920150757 seconds
+---- Change Point for 488 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.196890830993652 seconds
+---- Change Point for 489 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 26.741931915283203 seconds
+---- Change Point for 490 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 32.038644790649414 seconds
+---- Change Point for 491 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 17.951284885406494 seconds
+---- Change Point for 492 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.727128982543945 seconds
+---- Change Point for 493 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.742944955825806 seconds
+---- Change Point for 494 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 22.153907299041748 seconds
+---- Change Point for 495 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 20.802250146865845 seconds
+---- Change Point for 496 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 15.449877977371216 seconds
+---- Change Point for 497 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 21.875016927719116 seconds
+---- Change Point for 498 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 22.898515939712524 seconds
+---- Change Point for 499 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 17.728015184402466 seconds
+---- Change Point for 500 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 28.294100284576416 seconds
+---- Change Point for 501 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.691550970077515 seconds
+---- Change Point for 502 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 14.03804612159729 seconds
+---- Change Point for 503 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.744778871536255 seconds
+---- Change Point for 504 iteration with dense_mean signal, 2.0 is 483, and pvalue 0.005. ----
+Detection is finished in 18.546539068222046 seconds
+---- Change Point for 505 iteration with dense_mean signal, 2.0 is 518, and pvalue 0.005. ----
+Detection is finished in 19.177000045776367 seconds
+---- Change Point for 506 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.233651161193848 seconds
+---- Change Point for 507 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 14.58183217048645 seconds
+---- Change Point for 508 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 25.462014198303223 seconds
+---- Change Point for 509 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 13.334320068359375 seconds
+---- Change Point for 510 iteration with dense_mean signal, 2.0 is 483, and pvalue 0.005. ----
+Detection is finished in 20.435203075408936 seconds
+---- Change Point for 511 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.304877996444702 seconds
+---- Change Point for 512 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 16.38426899909973 seconds
+---- Change Point for 513 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 28.352406978607178 seconds
+---- Change Point for 514 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 30.87803077697754 seconds
+---- Change Point for 515 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 29.43601679801941 seconds
+---- Change Point for 516 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.567426919937134 seconds
+---- Change Point for 517 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 19.99274182319641 seconds
+---- Change Point for 518 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.62057113647461 seconds
+---- Change Point for 519 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 21.37128520011902 seconds
+---- Change Point for 520 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 20.544134855270386 seconds
+---- Change Point for 521 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 19.03568983078003 seconds
+---- Change Point for 522 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.27365016937256 seconds
+---- Change Point for 523 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 23.127668142318726 seconds
+---- Change Point for 524 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 19.483906984329224 seconds
+---- Change Point for 525 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 29.80204725265503 seconds
+---- Change Point for 526 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 13.27743911743164 seconds
+---- Change Point for 527 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.88432216644287 seconds
+---- Change Point for 528 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 15.162584781646729 seconds
+---- Change Point for 529 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 20.861248016357422 seconds
+---- Change Point for 530 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 13.40588092803955 seconds
+---- Change Point for 531 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 21.832968950271606 seconds
+---- Change Point for 532 iteration with dense_mean signal, 2.0 is 488, and pvalue 0.005. ----
+Detection is finished in 16.460007905960083 seconds
+---- Change Point for 533 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 24.402455806732178 seconds
+---- Change Point for 534 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.527185916900635 seconds
+---- Change Point for 535 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 20.327499866485596 seconds
+---- Change Point for 536 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 18.611121892929077 seconds
+---- Change Point for 537 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 26.589184045791626 seconds
+---- Change Point for 538 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 25.411508321762085 seconds
+---- Change Point for 539 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 23.222979068756104 seconds
+---- Change Point for 540 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.864749670028687 seconds
+---- Change Point for 541 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 22.924933195114136 seconds
+---- Change Point for 542 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 24.290364027023315 seconds
+---- Change Point for 543 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 26.75043821334839 seconds
+---- Change Point for 544 iteration with dense_mean signal, 2.0 is 511, and pvalue 0.005. ----
+Detection is finished in 28.26990818977356 seconds
+---- Change Point for 545 iteration with dense_mean signal, 2.0 is 516, and pvalue 0.005. ----
+Detection is finished in 24.168941974639893 seconds
+---- Change Point for 546 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 18.341482162475586 seconds
+---- Change Point for 547 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 25.614872932434082 seconds
+---- Change Point for 548 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.39866280555725 seconds
+---- Change Point for 549 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 18.715401887893677 seconds
+---- Change Point for 550 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 24.10353374481201 seconds
+---- Change Point for 551 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 27.800429821014404 seconds
+---- Change Point for 552 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.04028606414795 seconds
+---- Change Point for 553 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 26.08246874809265 seconds
+---- Change Point for 554 iteration with dense_mean signal, 2.0 is 520, and pvalue 0.005. ----
+Detection is finished in 22.143929958343506 seconds
+---- Change Point for 555 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 22.24198603630066 seconds
+---- Change Point for 556 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 27.359184980392456 seconds
+---- Change Point for 557 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.760476112365723 seconds
+---- Change Point for 558 iteration with dense_mean signal, 2.0 is 518, and pvalue 0.005. ----
+Detection is finished in 25.532325744628906 seconds
+---- Change Point for 559 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 20.681705951690674 seconds
+---- Change Point for 560 iteration with dense_mean signal, 2.0 is 514, and pvalue 0.005. ----
+Detection is finished in 19.279519081115723 seconds
+---- Change Point for 561 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 23.387473106384277 seconds
+---- Change Point for 562 iteration with dense_mean signal, 2.0 is 481, and pvalue 0.005. ----
+Detection is finished in 21.14771294593811 seconds
+---- Change Point for 563 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.33590292930603 seconds
+---- Change Point for 564 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 18.20071029663086 seconds
+---- Change Point for 565 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 20.68823504447937 seconds
+---- Change Point for 566 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 31.198187112808228 seconds
+---- Change Point for 567 iteration with dense_mean signal, 2.0 is 459, and pvalue 0.005. ----
+Detection is finished in 21.633460998535156 seconds
+---- Change Point for 568 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.606042861938477 seconds
+---- Change Point for 569 iteration with dense_mean signal, 2.0 is 537, and pvalue 0.005. ----
+Detection is finished in 15.177771091461182 seconds
+---- Change Point for 570 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 22.954888105392456 seconds
+---- Change Point for 571 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.466307878494263 seconds
+---- Change Point for 572 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.191040992736816 seconds
+---- Change Point for 573 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 20.028805017471313 seconds
+---- Change Point for 574 iteration with dense_mean signal, 2.0 is 479, and pvalue 0.005. ----
+Detection is finished in 17.374772310256958 seconds
+---- Change Point for 575 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 16.322048902511597 seconds
+---- Change Point for 576 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 15.217386960983276 seconds
+---- Change Point for 577 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 18.11247205734253 seconds
+---- Change Point for 578 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 17.125207901000977 seconds
+---- Change Point for 579 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.514976978302002 seconds
+---- Change Point for 580 iteration with dense_mean signal, 2.0 is 519, and pvalue 0.005. ----
+Detection is finished in 18.130961894989014 seconds
+---- Change Point for 581 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 17.113693952560425 seconds
+---- Change Point for 582 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 13.015929698944092 seconds
+---- Change Point for 583 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 36.76863121986389 seconds
+---- Change Point for 584 iteration with dense_mean signal, 2.0 is 516, and pvalue 0.005. ----
+Detection is finished in 21.995066165924072 seconds
+---- Change Point for 585 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 20.81885313987732 seconds
+---- Change Point for 586 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.039671182632446 seconds
+---- Change Point for 587 iteration with dense_mean signal, 2.0 is 559, and pvalue 0.005. ----
+Detection is finished in 33.967472076416016 seconds
+---- Change Point for 588 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.233414888381958 seconds
+---- Change Point for 589 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 21.304629802703857 seconds
+---- Change Point for 590 iteration with dense_mean signal, 2.0 is 482, and pvalue 0.005. ----
+Detection is finished in 33.28416681289673 seconds
+---- Change Point for 591 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 21.62335777282715 seconds
+---- Change Point for 592 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 31.1842257976532 seconds
+---- Change Point for 593 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.22942280769348 seconds
+---- Change Point for 594 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 20.99008321762085 seconds
+---- Change Point for 595 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 15.29627013206482 seconds
+---- Change Point for 596 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 23.727356910705566 seconds
+---- Change Point for 597 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 14.62462592124939 seconds
+---- Change Point for 598 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 16.320734977722168 seconds
+---- Change Point for 599 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 21.747880935668945 seconds
+---- Change Point for 600 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.654335021972656 seconds
+---- Change Point for 601 iteration with dense_mean signal, 2.0 is 509, and pvalue 0.005. ----
+Detection is finished in 13.629307985305786 seconds
+---- Change Point for 602 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 36.50169324874878 seconds
+---- Change Point for 603 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 34.24674677848816 seconds
+---- Change Point for 604 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 22.444462060928345 seconds
+---- Change Point for 605 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.84205198287964 seconds
+---- Change Point for 606 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 12.384034156799316 seconds
+---- Change Point for 607 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 14.388062000274658 seconds
+---- Change Point for 608 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 12.853349208831787 seconds
+---- Change Point for 609 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 11.943319082260132 seconds
+---- Change Point for 610 iteration with dense_mean signal, 2.0 is 514, and pvalue 0.005. ----
+Detection is finished in 10.989679098129272 seconds
+---- Change Point for 611 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.20340085029602 seconds
+---- Change Point for 612 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.30945897102356 seconds
+---- Change Point for 613 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 31.385202884674072 seconds
+---- Change Point for 614 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 42.321901082992554 seconds
+---- Change Point for 615 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 35.05834603309631 seconds
+---- Change Point for 616 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 33.86092805862427 seconds
+---- Change Point for 617 iteration with dense_mean signal, 2.0 is 520, and pvalue 0.005. ----
+Detection is finished in 27.07360816001892 seconds
+---- Change Point for 618 iteration with dense_mean signal, 2.0 is 509, and pvalue 0.005. ----
+Detection is finished in 22.743916034698486 seconds
+---- Change Point for 619 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 26.354533910751343 seconds
+---- Change Point for 620 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.874024152755737 seconds
+---- Change Point for 621 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 30.88336491584778 seconds
+---- Change Point for 622 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 18.020596981048584 seconds
+---- Change Point for 623 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 17.736658811569214 seconds
+---- Change Point for 624 iteration with dense_mean signal, 2.0 is 478, and pvalue 0.005. ----
+Detection is finished in 26.302062034606934 seconds
+---- Change Point for 625 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 31.529536962509155 seconds
+---- Change Point for 626 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 25.862420082092285 seconds
+---- Change Point for 627 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 21.310281991958618 seconds
+---- Change Point for 628 iteration with dense_mean signal, 2.0 is 474, and pvalue 0.005. ----
+Detection is finished in 21.6876220703125 seconds
+---- Change Point for 629 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 13.891029119491577 seconds
+---- Change Point for 630 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.047821044921875 seconds
+---- Change Point for 631 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.56710720062256 seconds
+---- Change Point for 632 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 15.265771865844727 seconds
+---- Change Point for 633 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 14.948700189590454 seconds
+---- Change Point for 634 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 816.1339929103851 seconds
+---- Change Point for 635 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 25.834187030792236 seconds
+---- Change Point for 636 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 23.815837144851685 seconds
+---- Change Point for 637 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 21.684284925460815 seconds
+---- Change Point for 638 iteration with dense_mean signal, 2.0 is 482, and pvalue 0.005. ----
+Detection is finished in 31.89519190788269 seconds
+---- Change Point for 639 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 32.91042518615723 seconds
+---- Change Point for 640 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 34.53309488296509 seconds
+---- Change Point for 641 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 28.57242488861084 seconds
+---- Change Point for 642 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 21.9493670463562 seconds
+---- Change Point for 643 iteration with dense_mean signal, 2.0 is 509, and pvalue 0.005. ----
+Detection is finished in 20.770597219467163 seconds
+---- Change Point for 644 iteration with dense_mean signal, 2.0 is 487, and pvalue 0.005. ----
+Detection is finished in 1057.9267089366913 seconds
+---- Change Point for 645 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 10.794802188873291 seconds
+---- Change Point for 646 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 31.749456882476807 seconds
+---- Change Point for 647 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 26.183349132537842 seconds
+---- Change Point for 648 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 32.40942907333374 seconds
+---- Change Point for 649 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 169.9387481212616 seconds
+---- Change Point for 650 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 71.56158685684204 seconds
+---- Change Point for 651 iteration with dense_mean signal, 2.0 is 511, and pvalue 0.005. ----
+Detection is finished in 19.283474922180176 seconds
+---- Change Point for 652 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 20.789158821105957 seconds
+---- Change Point for 653 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 13.404007911682129 seconds
+---- Change Point for 654 iteration with dense_mean signal, 2.0 is 513, and pvalue 0.005. ----
+Detection is finished in 14.113853931427002 seconds
+---- Change Point for 655 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 10.044859170913696 seconds
+---- Change Point for 656 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 18.651149034500122 seconds
+---- Change Point for 657 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 17.402514934539795 seconds
+---- Change Point for 658 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 22.62331485748291 seconds
+---- Change Point for 659 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 44.02446508407593 seconds
+---- Change Point for 660 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 25.61237621307373 seconds
+---- Change Point for 661 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 23.94042181968689 seconds
+---- Change Point for 662 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 22.830429792404175 seconds
+---- Change Point for 663 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 19.270905017852783 seconds
+---- Change Point for 664 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 11.445645093917847 seconds
+---- Change Point for 665 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 15.425698041915894 seconds
+---- Change Point for 666 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 14.389065265655518 seconds
+---- Change Point for 667 iteration with dense_mean signal, 2.0 is 519, and pvalue 0.005. ----
+Detection is finished in 19.128610134124756 seconds
+---- Change Point for 668 iteration with dense_mean signal, 2.0 is 487, and pvalue 0.005. ----
+Detection is finished in 17.662850856781006 seconds
+---- Change Point for 669 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 15.768348932266235 seconds
+---- Change Point for 670 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 15.43328309059143 seconds
+---- Change Point for 671 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 11.315124988555908 seconds
+---- Change Point for 672 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 14.021531105041504 seconds
+---- Change Point for 673 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 19.601814031600952 seconds
+---- Change Point for 674 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 12.271857976913452 seconds
+---- Change Point for 675 iteration with dense_mean signal, 2.0 is 476, and pvalue 0.005. ----
+Detection is finished in 17.491823196411133 seconds
+---- Change Point for 676 iteration with dense_mean signal, 2.0 is 513, and pvalue 0.005. ----
+Detection is finished in 13.747449159622192 seconds
+---- Change Point for 677 iteration with dense_mean signal, 2.0 is 511, and pvalue 0.005. ----
+Detection is finished in 12.65993881225586 seconds
+---- Change Point for 678 iteration with dense_mean signal, 2.0 is 483, and pvalue 0.005. ----
+Detection is finished in 15.570706129074097 seconds
+---- Change Point for 679 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 15.899684190750122 seconds
+---- Change Point for 680 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 13.915578126907349 seconds
+---- Change Point for 681 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 12.66903305053711 seconds
+---- Change Point for 682 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 12.944300174713135 seconds
+---- Change Point for 683 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 15.133345127105713 seconds
+---- Change Point for 684 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 14.369637966156006 seconds
+---- Change Point for 685 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 19.009440183639526 seconds
+---- Change Point for 686 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 18.04739475250244 seconds
+---- Change Point for 687 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 14.15437912940979 seconds
+---- Change Point for 688 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 15.644258737564087 seconds
+---- Change Point for 689 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 16.094191074371338 seconds
+---- Change Point for 690 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 20.126675844192505 seconds
+---- Change Point for 691 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 13.18326210975647 seconds
+---- Change Point for 692 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 16.59619688987732 seconds
+---- Change Point for 693 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 16.06886911392212 seconds
+---- Change Point for 694 iteration with dense_mean signal, 2.0 is 528, and pvalue 0.005. ----
+Detection is finished in 13.14446473121643 seconds
+---- Change Point for 695 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 14.90134596824646 seconds
+---- Change Point for 696 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 16.145442962646484 seconds
+---- Change Point for 697 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 14.2797691822052 seconds
+---- Change Point for 698 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 15.261521816253662 seconds
+---- Change Point for 699 iteration with dense_mean signal, 2.0 is 462, and pvalue 0.005. ----
+Detection is finished in 16.042122840881348 seconds
+---- Change Point for 700 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 14.923830032348633 seconds
+---- Change Point for 701 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 17.475095748901367 seconds
+---- Change Point for 702 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 16.63675808906555 seconds
+---- Change Point for 703 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 13.16339111328125 seconds
+---- Change Point for 704 iteration with dense_mean signal, 2.0 is 512, and pvalue 0.005. ----
+Detection is finished in 17.892359972000122 seconds
+---- Change Point for 705 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.084717988967896 seconds
+---- Change Point for 706 iteration with dense_mean signal, 2.0 is 486, and pvalue 0.005. ----
+Detection is finished in 21.829782009124756 seconds
+---- Change Point for 707 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 29.751669883728027 seconds
+---- Change Point for 708 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 20.95548677444458 seconds
+---- Change Point for 709 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 19.404354095458984 seconds
+---- Change Point for 710 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 26.284298181533813 seconds
+---- Change Point for 711 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 38.6387038230896 seconds
+---- Change Point for 712 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 19.45731496810913 seconds
+---- Change Point for 713 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 31.858479976654053 seconds
+---- Change Point for 714 iteration with dense_mean signal, 2.0 is 488, and pvalue 0.005. ----
+Detection is finished in 37.532968044281006 seconds
+---- Change Point for 715 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 49.22374892234802 seconds
+---- Change Point for 716 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 55.37044405937195 seconds
+---- Change Point for 717 iteration with dense_mean signal, 2.0 is 486, and pvalue 0.005. ----
+Detection is finished in 31.1856849193573 seconds
+---- Change Point for 718 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 16.82396173477173 seconds
+---- Change Point for 719 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 15.480152130126953 seconds
+---- Change Point for 720 iteration with dense_mean signal, 2.0 is 485, and pvalue 0.005. ----
+Detection is finished in 16.70300602912903 seconds
+---- Change Point for 721 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 17.38009786605835 seconds
+---- Change Point for 722 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 16.268814086914062 seconds
+---- Change Point for 723 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 13.068114995956421 seconds
+---- Change Point for 724 iteration with dense_mean signal, 2.0 is 520, and pvalue 0.005. ----
+Detection is finished in 15.146568059921265 seconds
+---- Change Point for 725 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 18.688312768936157 seconds
+---- Change Point for 726 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 19.163256883621216 seconds
+---- Change Point for 727 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 15.686174869537354 seconds
+---- Change Point for 728 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 26.230587005615234 seconds
+---- Change Point for 729 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 20.526172876358032 seconds
+---- Change Point for 730 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 18.79038429260254 seconds
+---- Change Point for 731 iteration with dense_mean signal, 2.0 is 534, and pvalue 0.005. ----
+Detection is finished in 15.54541802406311 seconds
+---- Change Point for 732 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.339718103408813 seconds
+---- Change Point for 733 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 14.475459098815918 seconds
+---- Change Point for 734 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.936079740524292 seconds
+---- Change Point for 735 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 18.079524278640747 seconds
+---- Change Point for 736 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 16.49221920967102 seconds
+---- Change Point for 737 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 18.965327978134155 seconds
+---- Change Point for 738 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 20.21967101097107 seconds
+---- Change Point for 739 iteration with dense_mean signal, 2.0 is 586, and pvalue 0.005. ----
+Detection is finished in 20.255481719970703 seconds
+---- Change Point for 740 iteration with dense_mean signal, 2.0 is 507, and pvalue 0.005. ----
+Detection is finished in 13.771464824676514 seconds
+---- Change Point for 741 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 23.25696611404419 seconds
+---- Change Point for 742 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 16.16027283668518 seconds
+---- Change Point for 743 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 20.74201011657715 seconds
+---- Change Point for 744 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 20.60744619369507 seconds
+---- Change Point for 745 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 15.299170970916748 seconds
+---- Change Point for 746 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.625643014907837 seconds
+---- Change Point for 747 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 16.884296894073486 seconds
+---- Change Point for 748 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 16.213160276412964 seconds
+---- Change Point for 749 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 19.602762937545776 seconds
+---- Change Point for 750 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 15.583097219467163 seconds
+---- Change Point for 751 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 23.236414909362793 seconds
+---- Change Point for 752 iteration with dense_mean signal, 2.0 is 538, and pvalue 0.005. ----
+Detection is finished in 19.708360195159912 seconds
+---- Change Point for 753 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 144.16780591011047 seconds
+---- Change Point for 754 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 11.910534858703613 seconds
+---- Change Point for 755 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.80817699432373 seconds
+---- Change Point for 756 iteration with dense_mean signal, 2.0 is 529, and pvalue 0.005. ----
+Detection is finished in 71.08932304382324 seconds
+---- Change Point for 757 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 31.482533931732178 seconds
+---- Change Point for 758 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 61.810763120651245 seconds
+---- Change Point for 759 iteration with dense_mean signal, 2.0 is 454, and pvalue 0.005. ----
+Detection is finished in 37.6470263004303 seconds
+---- Change Point for 760 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 51.874812841415405 seconds
+---- Change Point for 761 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 24.002846002578735 seconds
+---- Change Point for 762 iteration with dense_mean signal, 2.0 is 514, and pvalue 0.005. ----
+Detection is finished in 23.136358976364136 seconds
+---- Change Point for 763 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 29.78804302215576 seconds
+---- Change Point for 764 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 571.3304979801178 seconds
+---- Change Point for 765 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.304955005645752 seconds
+---- Change Point for 766 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 15.581000804901123 seconds
+---- Change Point for 767 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 24.707999229431152 seconds
+---- Change Point for 768 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 15.93285584449768 seconds
+---- Change Point for 769 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 12.979247093200684 seconds
+---- Change Point for 770 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 31.40644907951355 seconds
+---- Change Point for 771 iteration with dense_mean signal, 2.0 is 510, and pvalue 0.005. ----
+Detection is finished in 33.72657012939453 seconds
+---- Change Point for 772 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 14.459722995758057 seconds
+---- Change Point for 773 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.617671966552734 seconds
+---- Change Point for 774 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 22.720458984375 seconds
+---- Change Point for 775 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 20.95569396018982 seconds
+---- Change Point for 776 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 19.16523814201355 seconds
+---- Change Point for 777 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 21.34355616569519 seconds
+---- Change Point for 778 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 25.709671020507812 seconds
+---- Change Point for 779 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 30.656044006347656 seconds
+---- Change Point for 780 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 26.699869871139526 seconds
+---- Change Point for 781 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 40.35714101791382 seconds
+---- Change Point for 782 iteration with dense_mean signal, 2.0 is 511, and pvalue 0.005. ----
+Detection is finished in 18.314298152923584 seconds
+---- Change Point for 783 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 33.44498419761658 seconds
+---- Change Point for 784 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 19.590902090072632 seconds
+---- Change Point for 785 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 25.114784002304077 seconds
+---- Change Point for 786 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 31.730251789093018 seconds
+---- Change Point for 787 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 27.71981906890869 seconds
+---- Change Point for 788 iteration with dense_mean signal, 2.0 is 528, and pvalue 0.005. ----
+Detection is finished in 18.85739302635193 seconds
+---- Change Point for 789 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 14.988393068313599 seconds
+---- Change Point for 790 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.3930606842041 seconds
+---- Change Point for 791 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 16.377113819122314 seconds
+---- Change Point for 792 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 22.664334058761597 seconds
+---- Change Point for 793 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.802135705947876 seconds
+---- Change Point for 794 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 17.002918004989624 seconds
+---- Change Point for 795 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 48.376384973526 seconds
+---- Change Point for 796 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 17.203882217407227 seconds
+---- Change Point for 797 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 25.938348054885864 seconds
+---- Change Point for 798 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 22.76442313194275 seconds
+---- Change Point for 799 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 16.91525888442993 seconds
+---- Change Point for 800 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 17.07223081588745 seconds
+---- Change Point for 801 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 21.039627075195312 seconds
+---- Change Point for 802 iteration with dense_mean signal, 2.0 is 486, and pvalue 0.005. ----
+Detection is finished in 16.546847105026245 seconds
+---- Change Point for 803 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 39.599700927734375 seconds
+---- Change Point for 804 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 33.581348180770874 seconds
+---- Change Point for 805 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 36.670466899871826 seconds
+---- Change Point for 806 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 31.74061417579651 seconds
+---- Change Point for 807 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 17.700793981552124 seconds
+---- Change Point for 808 iteration with dense_mean signal, 2.0 is 514, and pvalue 0.005. ----
+Detection is finished in 13.779649019241333 seconds
+---- Change Point for 809 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 19.308964729309082 seconds
+---- Change Point for 810 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 16.103128910064697 seconds
+---- Change Point for 811 iteration with dense_mean signal, 2.0 is 476, and pvalue 0.005. ----
+Detection is finished in 13.451712131500244 seconds
+---- Change Point for 812 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 25.0576171875 seconds
+---- Change Point for 813 iteration with dense_mean signal, 2.0 is 515, and pvalue 0.005. ----
+Detection is finished in 22.100341081619263 seconds
+---- Change Point for 814 iteration with dense_mean signal, 2.0 is 488, and pvalue 0.005. ----
+Detection is finished in 173.4114968776703 seconds
+---- Change Point for 815 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 19.408797025680542 seconds
+---- Change Point for 816 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 12.68722677230835 seconds
+---- Change Point for 817 iteration with dense_mean signal, 2.0 is 404, and pvalue 0.005. ----
+Detection is finished in 13.522418975830078 seconds
+---- Change Point for 818 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 12.377174854278564 seconds
+---- Change Point for 819 iteration with dense_mean signal, 2.0 is 489, and pvalue 0.005. ----
+Detection is finished in 15.06562089920044 seconds
+---- Change Point for 820 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 14.888513088226318 seconds
+---- Change Point for 821 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 22.838987827301025 seconds
+---- Change Point for 822 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.53876495361328 seconds
+---- Change Point for 823 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 22.24095582962036 seconds
+---- Change Point for 824 iteration with dense_mean signal, 2.0 is 524, and pvalue 0.005. ----
+Detection is finished in 19.802822828292847 seconds
+---- Change Point for 825 iteration with dense_mean signal, 2.0 is 552, and pvalue 0.005. ----
+Detection is finished in 18.552804708480835 seconds
+---- Change Point for 826 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 40.283369064331055 seconds
+---- Change Point for 827 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 20.122045040130615 seconds
+---- Change Point for 828 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 38.82003402709961 seconds
+---- Change Point for 829 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.036834955215454 seconds
+---- Change Point for 830 iteration with dense_mean signal, 2.0 is 531, and pvalue 0.005. ----
+Detection is finished in 20.35787796974182 seconds
+---- Change Point for 831 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 20.300196170806885 seconds
+---- Change Point for 832 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 25.710023164749146 seconds
+---- Change Point for 833 iteration with dense_mean signal, 2.0 is 481, and pvalue 0.005. ----
+Detection is finished in 17.97488284111023 seconds
+---- Change Point for 834 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 24.098506927490234 seconds
+---- Change Point for 835 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 40.43385982513428 seconds
+---- Change Point for 836 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 20.69258689880371 seconds
+---- Change Point for 837 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 16.5329909324646 seconds
+---- Change Point for 838 iteration with dense_mean signal, 2.0 is 480, and pvalue 0.005. ----
+Detection is finished in 20.379100799560547 seconds
+---- Change Point for 839 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 17.262048959732056 seconds
+---- Change Point for 840 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 33.484851121902466 seconds
+---- Change Point for 841 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 39.765970945358276 seconds
+---- Change Point for 842 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 28.06447982788086 seconds
+---- Change Point for 843 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 25.985964059829712 seconds
+---- Change Point for 844 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 16.466576099395752 seconds
+---- Change Point for 845 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 31.27096390724182 seconds
+---- Change Point for 846 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 20.628476858139038 seconds
+---- Change Point for 847 iteration with dense_mean signal, 2.0 is 493, and pvalue 0.005. ----
+Detection is finished in 24.371186017990112 seconds
+---- Change Point for 848 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 30.771183967590332 seconds
+---- Change Point for 849 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 28.619489192962646 seconds
+---- Change Point for 850 iteration with dense_mean signal, 2.0 is 484, and pvalue 0.005. ----
+Detection is finished in 17.201741218566895 seconds
+---- Change Point for 851 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 25.272013902664185 seconds
+---- Change Point for 852 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 15.44014596939087 seconds
+---- Change Point for 853 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 21.479317903518677 seconds
+---- Change Point for 854 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 33.09364700317383 seconds
+---- Change Point for 855 iteration with dense_mean signal, 2.0 is 488, and pvalue 0.005. ----
+Detection is finished in 32.409826040267944 seconds
+---- Change Point for 856 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 17.21935510635376 seconds
+---- Change Point for 857 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.895018100738525 seconds
+---- Change Point for 858 iteration with dense_mean signal, 2.0 is 519, and pvalue 0.005. ----
+Detection is finished in 12.100568056106567 seconds
+---- Change Point for 859 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 23.986462831497192 seconds
+---- Change Point for 860 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 27.61060929298401 seconds
+---- Change Point for 861 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 20.308831930160522 seconds
+---- Change Point for 862 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 19.21267008781433 seconds
+---- Change Point for 863 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.541783094406128 seconds
+---- Change Point for 864 iteration with dense_mean signal, 2.0 is 519, and pvalue 0.005. ----
+Detection is finished in 22.192938804626465 seconds
+---- Change Point for 865 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.580940008163452 seconds
+---- Change Point for 866 iteration with dense_mean signal, 2.0 is 454, and pvalue 0.005. ----
+Detection is finished in 25.61648988723755 seconds
+---- Change Point for 867 iteration with dense_mean signal, 2.0 is 507, and pvalue 0.005. ----
+Detection is finished in 36.30554485321045 seconds
+---- Change Point for 868 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 35.49177598953247 seconds
+---- Change Point for 869 iteration with dense_mean signal, 2.0 is 531, and pvalue 0.005. ----
+Detection is finished in 24.7547709941864 seconds
+---- Change Point for 870 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 23.349061965942383 seconds
+---- Change Point for 871 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 33.44432997703552 seconds
+---- Change Point for 872 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 28.22760272026062 seconds
+---- Change Point for 873 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.426987171173096 seconds
+---- Change Point for 874 iteration with dense_mean signal, 2.0 is 449, and pvalue 0.005. ----
+Detection is finished in 17.455053091049194 seconds
+---- Change Point for 875 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 19.250056266784668 seconds
+---- Change Point for 876 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 33.897785902023315 seconds
+---- Change Point for 877 iteration with dense_mean signal, 2.0 is 461, and pvalue 0.005. ----
+Detection is finished in 36.56163811683655 seconds
+---- Change Point for 878 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 28.5484721660614 seconds
+---- Change Point for 879 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 26.568783044815063 seconds
+---- Change Point for 880 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 33.06124806404114 seconds
+---- Change Point for 881 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 22.60846209526062 seconds
+---- Change Point for 882 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 31.404962062835693 seconds
+---- Change Point for 883 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 26.200090169906616 seconds
+---- Change Point for 884 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 34.23832297325134 seconds
+---- Change Point for 885 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.37387490272522 seconds
+---- Change Point for 886 iteration with dense_mean signal, 2.0 is 533, and pvalue 0.005. ----
+Detection is finished in 24.89061689376831 seconds
+---- Change Point for 887 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 29.77475905418396 seconds
+---- Change Point for 888 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 28.50224995613098 seconds
+---- Change Point for 889 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 19.098846912384033 seconds
+---- Change Point for 890 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 32.396870136260986 seconds
+---- Change Point for 891 iteration with dense_mean signal, 2.0 is 487, and pvalue 0.005. ----
+Detection is finished in 23.75494694709778 seconds
+---- Change Point for 892 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 30.638185262680054 seconds
+---- Change Point for 893 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 17.681490898132324 seconds
+---- Change Point for 894 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 31.925708055496216 seconds
+---- Change Point for 895 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 20.080365896224976 seconds
+---- Change Point for 896 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 17.14805769920349 seconds
+---- Change Point for 897 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 27.802959203720093 seconds
+---- Change Point for 898 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 29.097715139389038 seconds
+---- Change Point for 899 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 25.323421001434326 seconds
+---- Change Point for 900 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 26.417582035064697 seconds
+---- Change Point for 901 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 35.76658010482788 seconds
+---- Change Point for 902 iteration with dense_mean signal, 2.0 is 473, and pvalue 0.005. ----
+Detection is finished in 29.416529178619385 seconds
+---- Change Point for 903 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 37.91093397140503 seconds
+---- Change Point for 904 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 34.75264000892639 seconds
+---- Change Point for 905 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 26.27026605606079 seconds
+---- Change Point for 906 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 34.79609704017639 seconds
+---- Change Point for 907 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 34.95421385765076 seconds
+---- Change Point for 908 iteration with dense_mean signal, 2.0 is 487, and pvalue 0.005. ----
+Detection is finished in 24.48178005218506 seconds
+---- Change Point for 909 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 15.7919762134552 seconds
+---- Change Point for 910 iteration with dense_mean signal, 2.0 is 487, and pvalue 0.005. ----
+Detection is finished in 17.473304271697998 seconds
+---- Change Point for 911 iteration with dense_mean signal, 2.0 is 459, and pvalue 0.005. ----
+Detection is finished in 37.08099102973938 seconds
+---- Change Point for 912 iteration with dense_mean signal, 2.0 is 477, and pvalue 0.005. ----
+Detection is finished in 34.612359046936035 seconds
+---- Change Point for 913 iteration with dense_mean signal, 2.0 is 464, and pvalue 0.005. ----
+Detection is finished in 32.158801794052124 seconds
+---- Change Point for 914 iteration with dense_mean signal, 2.0 is 518, and pvalue 0.005. ----
+Detection is finished in 29.02808713912964 seconds
+---- Change Point for 915 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 17.674225091934204 seconds
+---- Change Point for 916 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 38.16724729537964 seconds
+---- Change Point for 917 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 25.37488102912903 seconds
+---- Change Point for 918 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 30.96184515953064 seconds
+---- Change Point for 919 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 32.381229877471924 seconds
+---- Change Point for 920 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 25.463090896606445 seconds
+---- Change Point for 921 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 34.48835015296936 seconds
+---- Change Point for 922 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 27.245586156845093 seconds
+---- Change Point for 923 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 15.622828006744385 seconds
+---- Change Point for 924 iteration with dense_mean signal, 2.0 is 504, and pvalue 0.005. ----
+Detection is finished in 12.76820182800293 seconds
+---- Change Point for 925 iteration with dense_mean signal, 2.0 is 481, and pvalue 0.005. ----
+Detection is finished in 13.937832832336426 seconds
+---- Change Point for 926 iteration with dense_mean signal, 2.0 is 478, and pvalue 0.005. ----
+Detection is finished in 24.52435803413391 seconds
+---- Change Point for 927 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 24.19693613052368 seconds
+---- Change Point for 928 iteration with dense_mean signal, 2.0 is 516, and pvalue 0.005. ----
+Detection is finished in 28.772807121276855 seconds
+---- Change Point for 929 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 29.495338916778564 seconds
+---- Change Point for 930 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 46.38154220581055 seconds
+---- Change Point for 931 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 43.65481400489807 seconds
+---- Change Point for 932 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 35.07762002944946 seconds
+---- Change Point for 933 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 40.15601110458374 seconds
+---- Change Point for 934 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 74.17004799842834 seconds
+---- Change Point for 935 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 57.37386512756348 seconds
+---- Change Point for 936 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 221.73015213012695 seconds
+---- Change Point for 937 iteration with dense_mean signal, 2.0 is 502, and pvalue 0.005. ----
+Detection is finished in 43.49587392807007 seconds
+---- Change Point for 938 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 36.724613189697266 seconds
+---- Change Point for 939 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 43.66257190704346 seconds
+---- Change Point for 940 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 42.567355155944824 seconds
+---- Change Point for 941 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 43.862130880355835 seconds
+---- Change Point for 942 iteration with dense_mean signal, 2.0 is 485, and pvalue 0.005. ----
+Detection is finished in 71.84004092216492 seconds
+---- Change Point for 943 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 47.5919930934906 seconds
+---- Change Point for 944 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 51.94189691543579 seconds
+---- Change Point for 945 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 50.1142201423645 seconds
+---- Change Point for 946 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 54.64146375656128 seconds
+---- Change Point for 947 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 57.70621705055237 seconds
+---- Change Point for 948 iteration with dense_mean signal, 2.0 is 518, and pvalue 0.005. ----
+Detection is finished in 48.4605598449707 seconds
+---- Change Point for 949 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 131.088773727417 seconds
+---- Change Point for 950 iteration with dense_mean signal, 2.0 is 494, and pvalue 0.005. ----
+Detection is finished in 118.65112686157227 seconds
+---- Change Point for 951 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 12.931888818740845 seconds
+---- Change Point for 952 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 28.94909405708313 seconds
+---- Change Point for 953 iteration with dense_mean signal, 2.0 is 492, and pvalue 0.005. ----
+Detection is finished in 42.163326263427734 seconds
+---- Change Point for 954 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 30.901247024536133 seconds
+---- Change Point for 955 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 10.552268028259277 seconds
+---- Change Point for 956 iteration with dense_mean signal, 2.0 is 513, and pvalue 0.005. ----
+Detection is finished in 48.84718370437622 seconds
+---- Change Point for 957 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 16.126726865768433 seconds
+---- Change Point for 958 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 113.82281804084778 seconds
+---- Change Point for 959 iteration with dense_mean signal, 2.0 is 513, and pvalue 0.005. ----
+Detection is finished in 12.867393016815186 seconds
+---- Change Point for 960 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 2373.172422885895 seconds
+---- Change Point for 961 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 32.1952908039093 seconds
+---- Change Point for 962 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 76.90188908576965 seconds
+---- Change Point for 963 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 68.9988431930542 seconds
+---- Change Point for 964 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 72.97339010238647 seconds
+---- Change Point for 965 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 57.94956398010254 seconds
+---- Change Point for 966 iteration with dense_mean signal, 2.0 is 496, and pvalue 0.005. ----
+Detection is finished in 85.7270348072052 seconds
+---- Change Point for 967 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 56.365172386169434 seconds
+---- Change Point for 968 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 18.55307388305664 seconds
+---- Change Point for 969 iteration with dense_mean signal, 2.0 is 497, and pvalue 0.005. ----
+Detection is finished in 34.876157999038696 seconds
+---- Change Point for 970 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 28.67954421043396 seconds
+---- Change Point for 971 iteration with dense_mean signal, 2.0 is 444, and pvalue 0.005. ----
+Detection is finished in 19.82880210876465 seconds
+---- Change Point for 972 iteration with dense_mean signal, 2.0 is 506, and pvalue 0.005. ----
+Detection is finished in 13.237046957015991 seconds
+---- Change Point for 973 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 18.122138023376465 seconds
+---- Change Point for 974 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 22.430808067321777 seconds
+---- Change Point for 975 iteration with dense_mean signal, 2.0 is 518, and pvalue 0.005. ----
+Detection is finished in 20.619730949401855 seconds
+---- Change Point for 976 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 25.28423810005188 seconds
+---- Change Point for 977 iteration with dense_mean signal, 2.0 is 487, and pvalue 0.005. ----
+Detection is finished in 17.590358018875122 seconds
+---- Change Point for 978 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 26.2306489944458 seconds
+---- Change Point for 979 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 38.23320388793945 seconds
+---- Change Point for 980 iteration with dense_mean signal, 2.0 is 505, and pvalue 0.005. ----
+Detection is finished in 55.15953183174133 seconds
+---- Change Point for 981 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 37.848925828933716 seconds
+---- Change Point for 982 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 49.25710988044739 seconds
+---- Change Point for 983 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 37.96970820426941 seconds
+---- Change Point for 984 iteration with dense_mean signal, 2.0 is 495, and pvalue 0.005. ----
+Detection is finished in 83.69310212135315 seconds
+---- Change Point for 985 iteration with dense_mean signal, 2.0 is 503, and pvalue 0.005. ----
+Detection is finished in 64.9882550239563 seconds
+---- Change Point for 986 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 36.977211236953735 seconds
+---- Change Point for 987 iteration with dense_mean signal, 2.0 is 491, and pvalue 0.005. ----
+Detection is finished in 29.053135871887207 seconds
+---- Change Point for 988 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 29.581551790237427 seconds
+---- Change Point for 989 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 35.40565466880798 seconds
+---- Change Point for 990 iteration with dense_mean signal, 2.0 is 490, and pvalue 0.005. ----
+Detection is finished in 32.234001874923706 seconds
+---- Change Point for 991 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 22.818249940872192 seconds
+---- Change Point for 992 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 27.357300996780396 seconds
+---- Change Point for 993 iteration with dense_mean signal, 2.0 is 519, and pvalue 0.005. ----
+Detection is finished in 33.28477215766907 seconds
+---- Change Point for 994 iteration with dense_mean signal, 2.0 is 501, and pvalue 0.005. ----
+Detection is finished in 23.652358293533325 seconds
+---- Change Point for 995 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 13.591686248779297 seconds
+---- Change Point for 996 iteration with dense_mean signal, 2.0 is 508, and pvalue 0.005. ----
+Detection is finished in 13.378716945648193 seconds
+---- Change Point for 997 iteration with dense_mean signal, 2.0 is 499, and pvalue 0.005. ----
+Detection is finished in 18.344942808151245 seconds
+---- Change Point for 998 iteration with dense_mean signal, 2.0 is 498, and pvalue 0.005. ----
+Detection is finished in 16.942881107330322 seconds
+---- Change Point for 999 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+Detection is finished in 12.6441011428833 seconds
+---- Change Point for 1000 iteration with dense_mean signal, 2.0 is 500, and pvalue 0.005. ----
+[16:07:16] ✓ Completed: changeforest | p=500
