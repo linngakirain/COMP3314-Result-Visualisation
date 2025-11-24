@@ -1,0 +1,3 @@
+[22:26:04] Starting: banded_null | FNN | n=1000, p=10
+run_size_for_result1.sh: line 68: 64233 Segmentation fault: 11     python code/py/simulation_scripts/simulation_changeAUC.py -d 0 -n 1000 -p 10 -r 1000 -g banded_null -c FNN -e 0.15 -a 0.05 -t False -l local -s 1
+[22:27:10] ✗ Failed: banded_null | FNN | n=1000, p=10 (exit code: 139)
